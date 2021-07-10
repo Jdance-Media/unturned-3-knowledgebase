@@ -9,6 +9,8 @@ The dedicated server includes the latest version, so an external download is not
 1. Copy the Rocket.Unturned module from the game's Extras directory.
 2. Paste it into the game's Modules directory.
 
+Another method would be to open the game's Extras folder and run the "Install Rocket.bat" file, which will copy and paste the files for you.
+
 ## Resources
 
 Browse the source code for the maintained version: [Legally Distinct Missile Repository](https://github.com/SmartlyDressedGames/Legally-Distinct-Missile)
